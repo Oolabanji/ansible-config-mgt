@@ -1,5 +1,5 @@
 ---
-#commenting to modify code 
+#commenting to modify code now
 - name: update web, nfs servers
   hosts: webservers, nfs
   remote_user: ec2-user
