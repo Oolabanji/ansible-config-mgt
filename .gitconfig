@@ -1,0 +1,6 @@
+[safe]
+	directory = /var/lib/jenkins/workspace/save_artifacts
+	directory = /var/lib/jenkins/workspace/save_artifacts
+	directory = /home/ubuntu/save_artifacts
+[user]
+	email = olabanjiagboola80@gmail.com
