@@ -15,6 +15,10 @@ nginx_package_name: "nginx"
 nginx_service_state: started
 nginx_service_enabled: true
 
+enable_nginx_lb: false
+
+load_balancer_is_required: false
+
 nginx_conf_template: "nginx.conf.j2"
 nginx_vhost_template: "vhost.j2"
 
